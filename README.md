@@ -1,2 +1,2 @@
-# baseball_salary_predition_miuul_case
- Miuul Case Study Baseball Salary Prediction
+# Miuul Case Study Baseball Salary Prediction
+1886 yılına ait beyzbol oyuncularının maaşlarını tahmin etmek üzere dataseti işleyip model kurulumları yapılmıştır.
